@@ -1,0 +1,3 @@
+https://owasp.org
+https://www.splunk.com/en_us/resources/log-analysis.html
+https://www.geeksforgeeks.org/log-file-analysis/
